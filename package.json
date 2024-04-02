@@ -1,0 +1,22 @@
+{
+  "name": "aptos-decompile",
+  "version": "1.0.0",
+  "description": "AI + Aptos Decompiler",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/shelljs": "^0.8.15",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.32",
+    "dotenv": "^16.4.5",
+    "openai": "^4.32.0",
+    "shelljs": "^0.8.5",
+    "yargs": "^17.7.2"
+  }
+}
