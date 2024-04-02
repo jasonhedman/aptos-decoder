@@ -13,7 +13,7 @@ The output is a human-readable version of the Aptos package, which can be used t
 Start by cloning the repository:
 
 ```bash
-git clone
+git clone https://github.com/jasonhedman/aptos-decoder
 ```
 
 Then install the required dependencies:
